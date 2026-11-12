@@ -1,4 +1,4 @@
-# 👋 안녕하세요! `이름`입니다.
+# 👋 안녕하세요! 데이터 분석가 신정민입니다.
 
 ### 📊 데이터 분석가를 목표로 성장하고 있습니다.
 
@@ -14,20 +14,21 @@ Python과 통계학을 기반으로 데이터를 분석하고 의미 있는 인�
 
 **💻 프로그래밍 및 개발 환경**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,jupyter,vscode" />
+</p>
 
 **📊 데이터 분석 및 통계**
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,scipy" />
+</p>
 
 **📈 데이터 시각화**
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=matplotlib" />
+</p>
 
 ---
 
